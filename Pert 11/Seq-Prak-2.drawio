@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T11:32:44.465Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="yPWzmYcv-opOMgMLSpZP" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T11:45:08.444Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="g44tYAg6Cldxs00TFVsf" version="22.1.7" type="github">
   <diagram name="Page-1" id="zYGFYwWdgDgnHZVmgpOS">
     <mxGraphModel dx="872" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="40" y="160" width="20" height="420" as="geometry" />
         </mxCell>
         <mxCell id="6ISc3NO1TbWstHizMqf0-29" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="6ISc3NO1TbWstHizMqf0-1">
-          <mxGeometry x="5" y="210" width="10" height="30" as="geometry" />
+          <mxGeometry x="5" y="220" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6ISc3NO1TbWstHizMqf0-3" value=":PenilaianUI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="210" width="60" height="30" as="geometry" />
@@ -53,6 +53,18 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="380" y="350" as="sourcePoint" />
             <mxPoint x="460" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ISc3NO1TbWstHizMqf0-31" value="createJadwal" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="407" as="sourcePoint" />
+            <mxPoint x="194.5" y="407" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ISc3NO1TbWstHizMqf0-32" value="createNilai()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="380" as="sourcePoint" />
+            <mxPoint x="194.5" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
