@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T01:26:25.528Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="9lxgk4v0EULkdJ_6m-lp" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T01:28:45.430Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="FSCZZuV7vZ5ZAU3yjrF2" version="22.1.7" type="github">
   <diagram name="Page-1" id="3gLux6pHF2ndwVlAqoPU">
-    <mxGraphModel dx="1026" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="708" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YFpx8r1d91XiXcpqW2FQ-4" value=":Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="190" y="205" width="30" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="cbiAxeQ5BMBAM3VZdBGR-3" value=":DosenUI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="338.75" y="265" width="60" height="30" as="geometry" />
         </mxCell>
@@ -18,6 +15,21 @@
         </mxCell>
         <mxCell id="cbiAxeQ5BMBAM3VZdBGR-8" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" vertex="1" parent="1">
           <mxGeometry x="338.75" y="220" width="50" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="cbiAxeQ5BMBAM3VZdBGR-9" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" vertex="1" parent="1">
+          <mxGeometry x="650" y="220" width="40" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="cbiAxeQ5BMBAM3VZdBGR-10" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" vertex="1" parent="1">
+          <mxGeometry x="501.25" y="210" width="40" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="cbiAxeQ5BMBAM3VZdBGR-11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="200" y="380" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cbiAxeQ5BMBAM3VZdBGR-12" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="195" y="220" width="20" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="cbiAxeQ5BMBAM3VZdBGR-13" value=":Administrator" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="175" y="265" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
