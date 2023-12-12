@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T07:35:37.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="zZc0IqB46H3PKwKe24aR" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T07:38:19.686Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="_q_LdgLE_StqAHVfomYx" version="22.1.7" type="github">
   <diagram name="Page-1" id="zYGFYwWdgDgnHZVmgpOS">
-    <mxGraphModel dx="872" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="727" dy="373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,6 +110,24 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="190" y="440" as="sourcePoint" />
             <mxPoint x="310" y="442" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ISc3NO1TbWstHizMqf0-51" value=":viewJadwal()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="6ISc3NO1TbWstHizMqf0-36">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="325" y="460" as="sourcePoint" />
+            <mxPoint x="435" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ISc3NO1TbWstHizMqf0-52" value=":viewJadwal()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="319.6666666666665" y="500" as="sourcePoint" />
+            <mxPoint x="645" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ISc3NO1TbWstHizMqf0-53" value=":viewJadwal()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.5;exitY=0.538;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="6ISc3NO1TbWstHizMqf0-41">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="323" y="540" as="sourcePoint" />
+            <mxPoint x="648" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
