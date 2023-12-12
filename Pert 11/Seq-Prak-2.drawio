@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T10:05:27.826Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="QCtcWzOo5kv_LTkx2mkC" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T10:10:45.058Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="VKsEk0XRbSZ3qxChze06" version="22.1.7" type="github">
   <diagram name="Page-1" id="zYGFYwWdgDgnHZVmgpOS">
-    <mxGraphModel dx="601" dy="308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="872" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,9 +46,6 @@
         <mxCell id="6ISc3NO1TbWstHizMqf0-43" value=":Transaksi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="570" y="211" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6ISc3NO1TbWstHizMqf0-45" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="645" y="480" width="10" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="6ISc3NO1TbWstHizMqf0-5" value=":Tas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="410" y="210" width="60" height="30" as="geometry" />
         </mxCell>
@@ -59,7 +56,7 @@
           <mxGeometry x="15" y="135" width="10" height="5" as="geometry" />
         </mxCell>
         <mxCell id="31nMpwVcb4EoJ7QhzkkQ-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="6ISc3NO1TbWstHizMqf0-8">
-          <mxGeometry x="15" y="220" width="10" height="90" as="geometry" />
+          <mxGeometry x="15" y="220" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6ISc3NO1TbWstHizMqf0-21" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="190" y="265" width="10" height="85" as="geometry" />
@@ -74,7 +71,7 @@
           <mxGeometry x="435" y="290" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6ISc3NO1TbWstHizMqf0-46" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="190" y="380" width="10" height="150" as="geometry" />
+          <mxGeometry x="190" y="380" width="10" height="190" as="geometry" />
         </mxCell>
         <mxCell id="31nMpwVcb4EoJ7QhzkkQ-12" value=":cariTas" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="31nMpwVcb4EoJ7QhzkkQ-10" target="6ISc3NO1TbWstHizMqf0-46">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -112,6 +109,9 @@
         <mxCell id="6ISc3NO1TbWstHizMqf0-36" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" parent="1" vertex="1">
           <mxGeometry x="510" y="161" width="40" height="539" as="geometry" />
         </mxCell>
+        <mxCell id="6ISc3NO1TbWstHizMqf0-37" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="6ISc3NO1TbWstHizMqf0-36" vertex="1">
+          <mxGeometry x="15" y="319" width="10" height="55" as="geometry" />
+        </mxCell>
         <mxCell id="6ISc3NO1TbWstHizMqf0-35" value=":dataBB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="500" y="211" width="60" height="30" as="geometry" />
         </mxCell>
@@ -121,14 +121,29 @@
         <mxCell id="31nMpwVcb4EoJ7QhzkkQ-21" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="31nMpwVcb4EoJ7QhzkkQ-20">
           <mxGeometry x="15" y="335" width="10" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="31nMpwVcb4EoJ7QhzkkQ-24" value=":selectTas" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="6ISc3NO1TbWstHizMqf0-36">
+        <mxCell id="31nMpwVcb4EoJ7QhzkkQ-24" value=":addTransaction" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="31nMpwVcb4EoJ7QhzkkQ-21">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="200" y="509.31" as="sourcePoint" />
-            <mxPoint x="335" y="509.31" as="targetPoint" />
+            <mxPoint x="200" y="550" as="sourcePoint" />
+            <mxPoint x="529.5" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6ISc3NO1TbWstHizMqf0-37" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="525" y="450" width="10" height="55" as="geometry" />
+        <mxCell id="31nMpwVcb4EoJ7QhzkkQ-25" value=":selectTransaction" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="55" y="520" as="sourcePoint" />
+            <mxPoint x="190" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="31nMpwVcb4EoJ7QhzkkQ-26" value=":addTransaction" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="6ISc3NO1TbWstHizMqf0-37">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="200" y="520" as="sourcePoint" />
+            <mxPoint x="595" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="31nMpwVcb4EoJ7QhzkkQ-27" value=":selectNorek" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="6ISc3NO1TbWstHizMqf0-36">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="427" y="490" as="sourcePoint" />
+            <mxPoint x="197.00034482758616" y="490.15999999999997" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
