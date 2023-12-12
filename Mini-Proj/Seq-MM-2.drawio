@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T15:48:48.365Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="-vIVfKmta87XQx0HJw4e" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T15:49:15.251Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="z4FYlOXwMKn14eYv4-uA" version="22.1.7" type="github">
   <diagram name="Page-1" id="zYGFYwWdgDgnHZVmgpOS">
     <mxGraphModel dx="872" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,9 +40,6 @@
             <mxPoint x="435.0000000000002" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6ISc3NO1TbWstHizMqf0-43" value=":DD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="587" y="211" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="6ISc3NO1TbWstHizMqf0-5" value=":Form" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="410" y="210" width="60" height="30" as="geometry" />
         </mxCell>
@@ -72,21 +69,6 @@
             <mxPoint x="55" y="340" as="sourcePoint" />
             <mxPoint x="190" y="340" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="6ISc3NO1TbWstHizMqf0-36" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" parent="1" vertex="1">
-          <mxGeometry x="510" y="161" width="40" height="539" as="geometry" />
-        </mxCell>
-        <mxCell id="6ISc3NO1TbWstHizMqf0-35" value=":klien" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="500" y="211" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="31nMpwVcb4EoJ7QhzkkQ-20" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" parent="1" vertex="1">
-          <mxGeometry x="597" y="161" width="40" height="539" as="geometry" />
-        </mxCell>
-        <mxCell id="9MAPe5Gw6r6Vr39sk6Cp-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" parent="1" vertex="1">
-          <mxGeometry x="680" y="160" width="40" height="539" as="geometry" />
-        </mxCell>
-        <mxCell id="9MAPe5Gw6r6Vr39sk6Cp-3" value=":Availability" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="670" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gBN-1XBMMAoDzHGia2Et-2" value=":safeForm" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;startArrow=none;startFill=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
