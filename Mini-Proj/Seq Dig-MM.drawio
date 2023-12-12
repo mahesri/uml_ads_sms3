@@ -1,36 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T08:15:57.324Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="Y39nPVY0aCRkDZHyfVAk" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T08:22:45.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="d4rH4nthxZAfHK25ZZI3" version="22.1.7" type="github">
   <diagram name="Page-1" id="3gLux6pHF2ndwVlAqoPU">
     <mxGraphModel dx="872" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VX-hJVhgTrls942nlDvP-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
-          <mxGeometry x="40" y="160" width="20" height="530" as="geometry" />
-        </mxCell>
-        <mxCell id="VX-hJVhgTrls942nlDvP-2" value=":PembelianTasUI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="210" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VX-hJVhgTrls942nlDvP-3" value=":PenilaianC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="282" y="210" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VX-hJVhgTrls942nlDvP-4" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" vertex="1" parent="1">
-          <mxGeometry x="170" y="160" width="50" height="540" as="geometry" />
-        </mxCell>
-        <mxCell id="VX-hJVhgTrls942nlDvP-5" value=":Konsumen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="205" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VX-hJVhgTrls942nlDvP-6" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" vertex="1" parent="1">
-          <mxGeometry x="300" y="160" width="40" height="540" as="geometry" />
-        </mxCell>
-        <mxCell id="VX-hJVhgTrls942nlDvP-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="VX-hJVhgTrls942nlDvP-6">
-          <mxGeometry x="15" y="107" width="10" height="63" as="geometry" />
-        </mxCell>
-        <mxCell id="VX-hJVhgTrls942nlDvP-11" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" vertex="1" parent="1">
-          <mxGeometry x="420" y="160" width="40" height="540" as="geometry" />
-        </mxCell>
-        <mxCell id="VX-hJVhgTrls942nlDvP-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="VX-hJVhgTrls942nlDvP-11">
-          <mxGeometry x="15" y="135" width="10" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
