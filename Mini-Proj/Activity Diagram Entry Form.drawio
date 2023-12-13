@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T03:01:08.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="AX5ZHQXWZ-JzyyxJlBHD" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T03:02:06.231Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="3hEgnBa2xWwtrN9xCZYX" version="22.1.8" type="github">
   <diagram name="Page-1" id="iyjL0SpkzG_3_o8AuMqo">
     <mxGraphModel dx="1026" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -12,12 +12,12 @@
             <mxPoint x="75" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WXtiDXbqrUkDzgwtgcUn-3" value="insertAvailablity" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="WXtiDXbqrUkDzgwtgcUn-3" value="selectAntrian" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="30" y="240" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WXtiDXbqrUkDzgwtgcUn-4" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="WXtiDXbqrUkDzgwtgcUn-3" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="90" y="340" as="targetPoint" />
+            <mxPoint x="240" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
