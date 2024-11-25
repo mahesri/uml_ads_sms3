@@ -64,10 +64,10 @@
         <mxCell id="5mOoO94ddFcIiWokS0IT-2" value="Diagnosa / update Form" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="338" y="148" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5mOoO94ddFcIiWokS0IT-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="xlxWEBotKly0_xG8SC1q-6">
+        <mxCell id="5mOoO94ddFcIiWokS0IT-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="230" as="sourcePoint" />
-            <mxPoint x="430" y="110" as="targetPoint" />
+            <mxPoint x="405" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5mOoO94ddFcIiWokS0IT-6" value="Counselor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
