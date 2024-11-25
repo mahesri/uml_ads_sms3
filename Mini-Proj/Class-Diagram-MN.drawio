@@ -25,7 +25,7 @@
           <mxGeometry y="98" width="160" height="52" as="geometry" />
         </mxCell>
         <mxCell id="JW8OHUgVRJeFFy1cACJR-13" value="Control:FO" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="208" y="30" width="110" height="150" as="geometry" />
+          <mxGeometry x="280" y="30" width="110" height="150" as="geometry" />
         </mxCell>
         <mxCell id="JW8OHUgVRJeFFy1cACJR-14" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="JW8OHUgVRJeFFy1cACJR-13" vertex="1">
           <mxGeometry y="26" width="110" height="8" as="geometry" />
@@ -61,16 +61,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1QGbozXHraVmk9afBFof-5" value="Control:Auth" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="30" width="80" height="90" as="geometry" />
+          <mxGeometry x="140" y="30" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1QGbozXHraVmk9afBFof-6" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="1QGbozXHraVmk9afBFof-5" vertex="1">
-          <mxGeometry y="26" width="80" height="8" as="geometry" />
+          <mxGeometry y="26" width="110" height="8" as="geometry" />
         </mxCell>
         <mxCell id="1QGbozXHraVmk9afBFof-7" value="+ index()&lt;div&gt;+ login()&lt;br&gt;&lt;div&gt;+ logout()&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="1QGbozXHraVmk9afBFof-5" vertex="1">
-          <mxGeometry y="34" width="80" height="56" as="geometry" />
+          <mxGeometry y="34" width="110" height="56" as="geometry" />
         </mxCell>
         <mxCell id="aHumnUk_EUE7L_vE3pF2-3" value="Control:Counselor" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="30" width="150" height="120" as="geometry" />
+          <mxGeometry x="410" y="30" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="aHumnUk_EUE7L_vE3pF2-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="aHumnUk_EUE7L_vE3pF2-3" vertex="1">
           <mxGeometry y="26" width="150" height="8" as="geometry" />
@@ -79,13 +79,13 @@
           <mxGeometry y="34" width="150" height="86" as="geometry" />
         </mxCell>
         <mxCell id="aHumnUk_EUE7L_vE3pF2-6" value="Control:Home" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="10" y="30" width="80" height="60" as="geometry" />
+          <mxGeometry x="10" y="30" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aHumnUk_EUE7L_vE3pF2-7" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="aHumnUk_EUE7L_vE3pF2-6" vertex="1">
-          <mxGeometry y="26" width="80" height="8" as="geometry" />
+          <mxGeometry y="26" width="110" height="8" as="geometry" />
         </mxCell>
         <mxCell id="aHumnUk_EUE7L_vE3pF2-8" value="+ index()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="aHumnUk_EUE7L_vE3pF2-6" vertex="1">
-          <mxGeometry y="34" width="80" height="26" as="geometry" />
+          <mxGeometry y="34" width="110" height="26" as="geometry" />
         </mxCell>
         <mxCell id="aHumnUk_EUE7L_vE3pF2-9" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font&gt;skema&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font&gt;Diagnosis data terjadi saat pengisian form, teknis ini terjadi&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;menggunakan teknologi AJAX,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;diagnosis berdasarkan data, yang ada di formulir tertentu.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="680" y="17.5" width="180" height="145" as="geometry" />
