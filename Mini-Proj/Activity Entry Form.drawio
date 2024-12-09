@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="8fGttMPrjWgMjmKSddIA">
-    <mxGraphModel dx="983" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="827" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,9 +31,6 @@
         <mxCell id="DMLUCLPIKw5wvbOsGA5K-15" value="Diagnosa sementara" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="350" y="360" width="125" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RiQpKcF-v1csz8CEov8d-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RiQpKcF-v1csz8CEov8d-2" target="RiQpKcF-v1csz8CEov8d-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="RiQpKcF-v1csz8CEov8d-2" value="Evaluasi data" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360.12" y="450" width="113.25" height="80" as="geometry" />
         </mxCell>
@@ -46,14 +43,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RiQpKcF-v1csz8CEov8d-7" value="Notifikasi data berhasil ditambahkan" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="RiQpKcF-v1csz8CEov8d-7" value="Notifikasi form berhasil ditambahkan" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="300" y="560" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RiQpKcF-v1csz8CEov8d-11" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="390" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RiQpKcF-v1csz8CEov8d-12" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="413.37" y="530" width="60" height="30" as="geometry" />
+          <mxGeometry x="415" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RiQpKcF-v1csz8CEov8d-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.03;entryY=0.932;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RiQpKcF-v1csz8CEov8d-2" target="RiQpKcF-v1csz8CEov8d-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="550" as="sourcePoint" />
+            <mxPoint x="410" y="500" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
